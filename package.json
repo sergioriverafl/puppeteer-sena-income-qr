@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-sena-income-qr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioriverafl/puppeteer-sena-income-qr.git"
+  },
+  "author": "sergioriverafl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergioriverafl/puppeteer-sena-income-qr/issues"
+  },
+  "homepage": "https://github.com/sergioriverafl/puppeteer-sena-income-qr#readme",
+  "dependencies": {
+    "puppeteer": "^14.3.0"
+  }
+}
